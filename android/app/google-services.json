@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "715591355675",
+    "project_id": "proa-acb63",
+    "storage_bucket": "proa-acb63.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715591355675:android:abf574787f9d0a083dd7be",
+        "android_client_info": {
+          "package_name": "co.edu.unibague.proa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715591355675-d1fd02qehnq18fiksqut2vb4mklidqo1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.edu.unibague.proa",
+            "certificate_hash": "9417c49975fb61d13fe1cd54a689bfb0b5dc0353"
+          }
+        },
+        {
+          "client_id": "715591355675-klgj9ge2f0l10ggpq2sjb1u5luqmgbvg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.edu.unibague.proa",
+            "certificate_hash": "d367b32070294ec062de687a09e51414973e3b92"
+          }
+        },
+        {
+          "client_id": "715591355675-8jbi8ue15q05k50kesiv776p4bhjfgg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4D4RI_l1-CbSRWapP3XUdIvN-X1pnVB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715591355675-8jbi8ue15q05k50kesiv776p4bhjfgg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
